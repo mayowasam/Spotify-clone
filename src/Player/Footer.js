@@ -7,6 +7,7 @@ import RepeatIcon from '@material-ui/icons/Repeat'
 import {Grid,Slider} from '@material-ui/core'
 import VolumeDownIcon from '@material-ui/icons/VolumeDown'
 import PlaylistPlayIcon from '@material-ui/icons/PlaylistPlay'
+import ImageTwo from '../images/9941.jpg'
 
 import './Footer.css'
 
@@ -15,7 +16,7 @@ function Footer() {
         <div className="footer">
 
             <div className="footer__left">
-                <img className="footer__image" src={require('../images/9941.jpg')} alt=""/>
+                <img className="footer__image" src={ImageTwo} alt=""/>
                 <div className="footer__albuminfo">
                     <h4>Yeah</h4>
                     <p>usher</p>

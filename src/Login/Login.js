@@ -1,11 +1,12 @@
 import React from 'react'
 import './Login.css'
+import ImageOne from '../images/image1.jpeg'
 import {loginUrl} from '../spotify'
 
 function Login() {
     return (
         <div className="login">
-            <img src={require('../images/image1.jpeg')} alt=""/>
+            <img src={ImageOne} alt=""/>
             <a href={loginUrl}>LOGIN TO SPOTIFY</a>
         </div>
     )

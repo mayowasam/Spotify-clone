@@ -5,6 +5,7 @@ import HomeIcon from '@material-ui/icons/Home'
 import SearchIcon from '@material-ui/icons/Search'
 import LibraryMusicIcon from '@material-ui/icons/LibraryMusic'
 import { useStateVal } from '../Hooks/StateProvider'
+import ImageOne from '../images/image1.jpeg'
 
 function Sidebar() {
     const [{ playlists }] = useStateVal()
@@ -13,7 +14,7 @@ function Sidebar() {
 
     return (
         <div className="sidebar">
-            <img className="sidebar__logo" src={require('../images/image1.jpeg')} alt="" />
+            <img className="sidebar__logo" src={ImageOne} alt="" />
             <SidebarOption title='Home' Icon={HomeIcon} />
             <SidebarOption title='Search' Icon={SearchIcon} />
             <SidebarOption title='Your Library' Icon={LibraryMusicIcon} />
