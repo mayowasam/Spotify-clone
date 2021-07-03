@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Spotify-clone/static/css/main.86a5ae25.chunk.css",
-    "main.js": "/Spotify-clone/static/js/main.01f5ec1a.chunk.js",
-    "main.js.map": "/Spotify-clone/static/js/main.01f5ec1a.chunk.js.map",
+    "main.js": "/Spotify-clone/static/js/main.5ec61891.chunk.js",
+    "main.js.map": "/Spotify-clone/static/js/main.5ec61891.chunk.js.map",
     "runtime-main.js": "/Spotify-clone/static/js/runtime-main.f311d068.js",
     "runtime-main.js.map": "/Spotify-clone/static/js/runtime-main.f311d068.js.map",
     "static/js/2.94ef6c67.chunk.js": "/Spotify-clone/static/js/2.94ef6c67.chunk.js",
     "static/js/2.94ef6c67.chunk.js.map": "/Spotify-clone/static/js/2.94ef6c67.chunk.js.map",
     "index.html": "/Spotify-clone/index.html",
-    "precache-manifest.d940acd774a142e34b7345fbc07e2444.js": "/Spotify-clone/precache-manifest.d940acd774a142e34b7345fbc07e2444.js",
+    "precache-manifest.50c271262ad489034d03de95ee51eca9.js": "/Spotify-clone/precache-manifest.50c271262ad489034d03de95ee51eca9.js",
     "service-worker.js": "/Spotify-clone/service-worker.js",
     "static/css/main.86a5ae25.chunk.css.map": "/Spotify-clone/static/css/main.86a5ae25.chunk.css.map",
     "static/js/2.94ef6c67.chunk.js.LICENSE.txt": "/Spotify-clone/static/js/2.94ef6c67.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f311d068.js",
     "static/js/2.94ef6c67.chunk.js",
     "static/css/main.86a5ae25.chunk.css",
-    "static/js/main.01f5ec1a.chunk.js"
+    "static/js/main.5ec61891.chunk.js"
   ]
 }
